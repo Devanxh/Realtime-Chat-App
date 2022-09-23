@@ -1,5 +1,5 @@
 # Realtime-Chat-App
-A simple real time chat application complete with usernames and connect/disconnect messages.
+A simple real time chat application with usernames and connect/disconnect messages.
 Used websockets which allows real time communcication from browser to server as well as every other browser that is connected to that server.
 
 # Tools Used
